@@ -9,5 +9,5 @@ using namespace std;
     cout <<"And forever is not always true\n";
 
 
-    return 
+    return 0;
   }
