@@ -2,8 +2,8 @@
 using namespace std;
   int main() {
     
-    string Name = "George Precious Ubong";
-    string MatriculationNumber = "25/EG/CO/100";
+    string Name = "Ikpe,Gods'favour Freeday";
+    string MatriculationNumber = "25/EG/CO/119";
     string Department = "Computer Engineering";
 
     cout << Name << '\n';
